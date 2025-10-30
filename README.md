@@ -75,9 +75,9 @@ A high-resolution image showcasing the final interactive dashboard.
 
 ### Key Business Insights:
 
-* **[Insight 1 related to Product Performance]**: *(Example: Bikes dominate revenue, but Accessories have the highest Gross Margin %)*.
-* **[Insight 2 related to Geography]**: *(Example: Sales are highest in the US, but Australia shows the fastest YoY growth)*.
-* **[Insight 3 related to Customers]**: *(Example: Professional and High-Income customers drive the highest Average Order Value)*.
+* **[Insight 1 related to Revenue]**: *(Example: Countries revenue & Top 10 customers revenue & KPIs for Business )*.
+* **[Insight 2 related to Profit]**: *(Example: Categories profit & month Profit)*.
+* **[Insight 3 related to Products]**: *(Example: Professional and High-Income for products)*.
 
 ---
 

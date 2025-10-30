@@ -100,7 +100,7 @@ This project was developed in collaboration with the following colleagues:
 
 | Name | GitHub Profile |
 | :--- | :--- |
-| **[Hassan Hamid]** | [https://github.com/Colleague1Username](https://github.com/Colleague1Username) |
+| **[Hassan Hamid]** | [https://github.com/Colleague1Username](https://github.com/HassanZoghly) |
 | **[Asem Ahmed]** | [https://github.com/Colleague2Username](https://github.com/Colleague2Username) |
 
 > **Note:** Please replace the placeholders above with the correct names and GitHub links for your colleagues.
@@ -111,6 +111,6 @@ Feel free to connect or reach out regarding this project:
 
 | Platform | Link |
 | :--- | :--- |
-| **GitHub** | [https://github.com/YourUsername](https://github.com/YourUsername) |
-| **LinkedIn** | [https://linkedin.com/in/YourProfile](https://linkedin.com/in/YourProfile) |
+| **GitHub** | [https://github.com/YourUsername](https://github.com/moustafa-nasser) |
+| **LinkedIn** | [https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/mostafa-nasser-876442322/) |
 | **Email** | [YourEmail@example.com](mailto:mostafa4businesses@gmail.com) |

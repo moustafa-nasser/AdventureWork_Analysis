@@ -85,9 +85,7 @@ A high-resolution image showcasing the final interactive dashboard.
 
 | Path | Description |
 | :--- | :--- |
-| `Data/Source_Files/` | Contains all **7 original CSV** datasets. |
-| `SQL_Queries/Sales_Data_PreProcessing_Queries.sql` | The single `.sql` file detailing all the pre-processing and analysis queries. |
-| `Data_Model_Excel/Sales_Performance_Dashboard.xlsx` | The final Excel file containing the complete Data Model and Dashboard. |
+| `Data` | Contains all **7 original CSV & SQL Queries File &Excel File** datasets. |
 | `Visualizations/Dashboard_Snapshot.png` | A high-quality image of the final dashboard. |
 
 ---
@@ -98,14 +96,27 @@ A high-resolution image showcasing the final interactive dashboard.
 
 This project was developed in collaboration with the following colleagues:
 
-| Name | GitHub Profile |
-| :--- | :--- |
-| **Hassan Hamid** | [https://github.com/HassanZoghly](https://github.com/HassanZoghly) |
-| **Asem Ahmed** | [https://github.com/Colleague2Username](https://github.com/Colleague2Username) |
+<table style="width:100%; border:none;">
+  <tr>
+    <td style="text-align:center; padding:10px; border:none;">
+      <a href="https://github.com/HassanZoghly">
+        <img src="https://avatars.githubusercontent.com/u/114166268?v=4?s=100&v=4" alt="Colleague 1 GitHub Avatar" width="80" style="border-radius: 50%; border: 3px solid #0077b5;">
+        <br>
+        <strong>Hassan Hamid</strong>
+      </a>
+    </td>
+    <td style="text-align:center; padding:10px; border:none;">
+      <a href="https://github.com/AsemFared435/">
+        <img src="https://avatars.githubusercontent.com/u/200077218?v=4?s=100&v=4" alt="Colleague 2 GitHub Avatar" width="80" style="border-radius: 50%; border: 3px solid #0077b5;">
+        <br>
+        <strong>Asem Farid</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
-> **Note:** Please replace the placeholders above with the correct names and GitHub links for your colleagues.
-
-### 📞 Contact the Developer (Self)
+<br>
+📞 Contact the Developer
 
 Feel free to connect or reach out regarding this project:
 

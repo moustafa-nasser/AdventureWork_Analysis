@@ -111,6 +111,6 @@ Feel free to connect or reach out regarding this project:
 
 | Platform | Link |
 | :--- | :--- |
-| **GitHub** | [https://github.com/YourUsername](https://github.com/moustafa-nasser) |
-| **LinkedIn** | [https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/mostafa-nasser-876442322/) |
-| **Email** | [YourEmail@example.com](mailto:mostafa4businesses@gmail.com) |
+| **GitHub** | [Mostafa Nasser On GitHub](https://github.com/moustafa-nasser) |
+| **LinkedIn** | [Mostafa Nasser On LinkedIn](https://www.linkedin.com/in/mostafa-nasser-876442322/) |
+| **Email** | [Gmail](mailto:mostafa4businesses@gmail.com) |

@@ -100,7 +100,7 @@ This project was developed in collaboration with the following colleagues:
 
 | Name | GitHub Profile |
 | :--- | :--- |
-| **[Hassan Hamid]** | [https://github.com/Colleague1Username](https://github.com/HassanZoghly) |
+| **[Hassan Hamid]** | [https://github.com/HassanZoghly](https://github.com/HassanZoghly) |
 | **[Asem Ahmed]** | [https://github.com/Colleague2Username](https://github.com/Colleague2Username) |
 
 > **Note:** Please replace the placeholders above with the correct names and GitHub links for your colleagues.
